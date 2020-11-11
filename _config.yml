@@ -1,0 +1,16 @@
+# Site settings
+title: A.I Song
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: A.I Song
+user_description: I'm a korean developer and data analyist, always searching for the next challenge.
+user_title: Developer & Data Analyist
+email: mauriurraco@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
